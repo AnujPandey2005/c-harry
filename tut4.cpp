@@ -6,5 +6,6 @@ int main(){
     cin>>num1;
     cout<<"enter the value of num2 :\n";
     cin>>num2;
+    cout<<"the sum is\n"<<num1+num2;
     return 0;
 }
